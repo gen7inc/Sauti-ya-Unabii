@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MajibuActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="16dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:text="@string/majibu_sehemu_ya_kwanza" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="1">
+
+            <TableRow>
+
+                <TextView
+                    android:padding="3dip"
+                    android:text="@string/majibu_yangu" />
+
+                <TextView
+                    android:gravity="right"
+                    android:padding="3dip"
+                    android:text="@string/majibu_sahihi" />
+            </TableRow>
+
+            <View
+                android:layout_height="2dp"
+                android:background="#090312" />
+
+            <TableRow>
+
+                <TextView
+                    android:padding="3dip"
+                    android:text="@string/majibu_yangu_text1" />
+
+                <TextView
+                    android:gravity="right"
+                    android:padding="3dip"
+                    android:text="@string/majibu_sahihi_text1" />
+            </TableRow>
+
+            <View
+                android:layout_height="2dp"
+                android:background="#090312" />
+
+            <TableRow>
+
+                <TextView
+                    android:padding="3dip"
+                    android:text="@string/majibu_yangu_text2" />
+
+                <TextView
+                    android:gravity="right"
+                    android:padding="3dip"
+                    android:text="@string/majibu_sahihi_text2" />
+            </TableRow>
+            <View
+                android:layout_height="2dp"
+                android:background="#090312" />
+
+            <TableRow>
+
+                <TextView
+                    android:padding="3dip"
+                    android:text="@string/majibu_yangu_text3" />
+
+                <TextView
+                    android:gravity="right"
+                    android:padding="3dip"
+                    android:text="@string/majibu_sahihi_text3" />
+            </TableRow>
+
+            <View
+                android:layout_height="2dp"
+                android:background="#090312" />
+
+            <TableRow>
+
+                <TextView
+                    android:padding="3dip"
+                    android:text="@string/majibu_yangu_text4" />
+
+                <TextView
+                    android:gravity="right"
+                    android:padding="3dip"
+                    android:text="@string/majibu_sahihi_text4" />
+            </TableRow>
+
+            <View
+                android:layout_height="2dp"
+                android:background="#090312" />
+
+            <TableRow>
+
+                <TextView
+                    android:padding="3dip"
+                    android:text="@string/majibu_yangu_text5" />
+
+                <TextView
+                    android:gravity="right"
+                    android:padding="3dip"
+                    android:text="@string/majibu_sahihi_text5" />
+            </TableRow>
+            <View
+                android:layout_height="2dp"
+                android:background="#090312" />
+
+        </TableLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:orientation="horizontal" >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="@string/jumla_ya_alama_label" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:text="@string/alama" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
+

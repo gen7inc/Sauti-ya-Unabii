@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Sauti Ya Unabii</string>
+    <string name="action_settings">Mipangilio</string>
+    <string name="action_share">Sambaza app</string>
+    <string name="action_help">Msaada</string>
+    <string name="sauti_ya_unabii_home_background_image">Home background</string>
+    <string name="mpendwa_heading">Mpendwa,</string>
+
+    <string name="una_uhakika_na_majibu_yako">Una uhakika na majibu yako?</string>
+    <string name="hapana_nirudishe_kwenye_maswali">Hapana, Nirudishe kwenye maswali</string>
+    <string name="ndiyo_nioneshe_majibu">Ndiyo, Nioneshe Majibu</string>
+    <string name="hakiki_majibu_yako">Hakiki Majibu Yako</string>
+    <string name="tafadhali_jaza_jina">Tafadhali, jaza hapa!</string>
+
+    <string name="mpendwa_intro_content">Watu wengi siku hizi wanaona kwamba Biblia ni kitabu cha pekee chenye maana sana.
+    Biblia inatoa majibu kwa maswali magumu ambayo yanawatatiza watu.
+    Watu wengine hawalielewi sawasawa Neno la MUNGU, lakini wanazidi kwenda mbele kuchunguza utajiri wa milele uliomo ndani yake.
+    Sauti ya Unabii imeanzisha mpango huu wa mafundisho ya kuwasaidia watu wapate kutambua jinsi ulivyo mkuu upendo wa MUNGU kwa
+    walimwengu waliopotea. Maelfu ya watu wapendao maendeleo wamepata furaha kubwa sana kujifunza masomo haya kutoka katika Biblia.
+    Unakaribishwa kwa moyo wote kama mwanafunzi wetu mpya. Tunakuombea kwamba masomo haya yakuletee furaha katika maisha yako
+    na nyumbani kwako pia.
+        Katika mfululizo huu kuna masomo yapatayo 20. Mara tu unapotuma majibu yote ya maswali uliyojibu tayari, tutakutumia masomo
+    mengine yanayofuata.
+    Mwisho wa kozi hii utatunukiwa cheti kizuri sana.</string>
+
+    <string name="asante_sana">Asante sana,</string>
+    <string name="mkurugenzi_name">Rabson Nkoko</string>
+    <string name="mkurugenzi_title">Mkurugenzi Sauti ya unabii</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home Fragment</string>
+    <string name="second_fragment_label">Lessons Fragment</string>
+    <string name="home">Nyumbani</string>
+    <string name="lessons">Masomo</string>
+    <string name="questions">Jipime na Maswali</string>
+    <string name="jipime_button">Jipime na Maswali</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+
+    <string name="majibu_sehemu_ya_kwanza">Majibu Sehemu ya kwanza</string>
+    <string name="majibu_yangu">Majibu Yangu</string>
+    <string name="majibu_sahihi">Majibu Sahihi</string>
+    <string name="majibu_yangu_text1">1. A</string>
+    <string name="majibu_sahihi_text1">1. B</string>
+    <string name="majibu_yangu_text2">2. C</string>
+    <string name="majibu_sahihi_text2">2. B</string>
+    <string name="majibu_yangu_text3">3. A</string>
+    <string name="majibu_sahihi_text3">3. A</string>
+    <string name="majibu_yangu_text4">4. B</string>
+    <string name="majibu_sahihi_text4">4. C</string>
+    <string name="majibu_yangu_text5">5. A</string>
+    <string name="majibu_sahihi_text5">5. B</string>
+    <string name="jumla_ya_alama_label">Jumla ya alama:  </string>
+    <string name="alama">4/5</string>
+</resources>
